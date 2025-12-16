@@ -1,13 +1,10 @@
 #exercise1
+print("Hello world\n" * 4)
+
+  #exercise2
 result = (99 ** 3) * 8
 print(result)
 
-  #exercise2
-  print(5 < 3)      
-print(3 == 3)       
-print(3 == "3")     
-print("3" > 3)      
-print("Hello" == "hello") 
 
   #exercise3
   computer_brand = "Dell"
