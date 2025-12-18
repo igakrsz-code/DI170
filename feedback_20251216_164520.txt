@@ -1,0 +1,10 @@
+URL: https://github.com/igakrsz-code/DI170/blob/main/exercise1.py
+suggestions for improvement:
+- In Exercise 1, the instructions ask to print "Hello world" four times in a single line of code. Your code calculates (99**3)*8. Fix this.
+- In Exercise 2, the instructions ask to calculate (99**3)*8. Your code prints the results of a series of comparison operations. Fix this.
+Brief justification:
+- correctness: The code correctly addresses most of the exercises, accurately implementing print statements, variable assignments, mathematical operations, comparison operators, if statements, and user input as described in the chapter content. However, exercises 1 and 2 are reversed. Exercise 1 should print "Hello world" four times in one line, and exercise 2 should calculate (99**3)*8.
+- readability: The code is generally well-formatted and easy to understand, with clear variable names and straightforward logic.
+- performance: The code exhibits optimal performance, as it uses simple operations and avoids unnecessary complexity.
+- security: The code does not involve any external data sources or sensitive operations, and thus is secure.
+
