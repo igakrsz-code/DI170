@@ -1,0 +1,7 @@
+URL: https://github.com/igakrsz-code/DI170/blob/main/oop.py
+Brief justification:
+- correctness: The code accurately and completely solves all four exercises as described in the Chapter Content/Questions. Each class and its methods function as expected, and the output matches the specified formats. Exercise 1 correctly creates cat objects and finds the oldest. Exercise 2 correctly creates dog objects, implements bark and jump methods, and compares dog sizes. Exercise 3 correctly creates a Song class and prints lyrics. Exercise 4 creates a Zoo class, adds, sells, displays, sorts and groups animals.
+- readability: The code is well-organized and easy to read. Class and method names are descriptive, and the code is properly indented. Variable names are meaningful and contribute to the overall clarity.
+- performance: The code demonstrates efficient performance. The algorithms used are straightforward and suitable for the scale of the problem. There are no unnecessary loops or complex operations that would impact performance.
+- security: The code does not involve any external input or operations that could pose a security risk. The operations are limited to internal data manipulation, making it secure.
+
