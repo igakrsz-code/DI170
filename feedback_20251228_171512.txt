@@ -1,0 +1,10 @@
+URL: https://github.com/igakrsz-code/DI170/blob/main/oopch.py
+suggestions for improvement:
+- Consider adding some input validation to the `add_animal` method to ensure that the `count` is a non-negative integer.
+- For better readability in `get_info`, you could use string formatting to ensure consistent spacing between the animal name, colon, and count.
+Brief justification:
+- correctness: The code fully implements the `Farm` class with `__init__`, `add_animal`, `get_info`, `get_animal_types`, and `get_short_info` methods as described in the instructions. It correctly handles adding animals, displaying information, and generating the short information string. The code includes the bonus tasks and addresses the upgrade to the add_animal method to use **kwargs.
+- readability: The code is generally well-readable. Variable names are descriptive, and the code is properly indented. The use of f-strings makes the string formatting clear. The logic in each method is easy to follow.
+- performance: The code's performance is efficient for the given task. The operations on the dictionary and list are standard and do not introduce any performance bottlenecks. Using `sorted()` is efficient for sorting the animal types.
+- security: The code does not involve any external input or operations that could pose a security risk. There is no file handling or network communication, so the risk of vulnerabilities is low.
+
