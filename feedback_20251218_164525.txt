@@ -1,0 +1,10 @@
+URL: https://github.com/igakrsz-code/DI170/blob/main/challange.py
+suggestions for improvement:
+- The submitted code is completely unrelated to the exercise instructions. The exercises involve dictionaries, loops, and conditionals within the context of dictionary manipulation. The provided code performs multiplication and string manipulation, not dictionary-related tasks.
+- The code does not address dictionary creation, access, modification, or any of the dictionary-specific methods mentioned in the chapter content.
+Brief justification:
+- correctness: The code does not address any of the exercises' requirements (dictionary creation, manipulation, loops with dictionaries, conditionals). It focuses on unrelated topics (multiplication and string manipulation).
+- readability: N/A
+- performance: N/A
+- security: N/A
+
