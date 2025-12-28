@@ -1,0 +1,7 @@
+URL: https://github.com/igakrsz-code/DI170/blob/main/dailyex.py
+Brief justification:
+- correctness: The code accurately implements both challenges as described in the chapter content, including sorting comma-separated words and finding the longest word in a sentence.
+- readability: The code is well-structured and easy to understand, with clear variable names and comments.
+- performance: The code demonstrates efficient solutions for both tasks, with linear time complexity for both sorting and finding the longest word.
+- security: The code does not involve any external input or operations that could introduce security vulnerabilities.
+
