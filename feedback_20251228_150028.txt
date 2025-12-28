@@ -1,0 +1,10 @@
+URL: https://github.com/igakrsz-code/DI170/blob/main/functions.py
+suggestions for improvement:
+- Consider adding comments to separate each exercise, which will make it easier for someone to understand the structure of your solution.
+- In exercise 4, the function name `guess_number` isn't the most descriptive, and the prompt doesn't explicitly state that we are guessing.  A better name could be `compare_number` or `check_random`. This highlights the importance of accurately interpreting the instructions.  (This is very minor, since the code fulfills the specified behavior.)
+Brief justification:
+- correctness: All exercises are correctly implemented as described in the prompt. Each function performs exactly as expected according to the exercise descriptions.
+- readability: The code is well-structured and easy to understand. Variable names are descriptive. Minor improvements could be made with added comments.
+- performance: The code is efficient and performs the tasks without any unnecessary overhead. Using f-strings is a good practice.
+- security: There are no security concerns in this code.
+
